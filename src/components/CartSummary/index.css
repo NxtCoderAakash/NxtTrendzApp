@@ -1,0 +1,29 @@
+.cart-summary-bg-container {
+  height: 150px;
+
+  padding: 10px;
+  color: gray;
+  align-self: flex-end;
+}
+.checkout-button {
+  border: none;
+  background-color: #0b69ff;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  margin-top: 15px;
+  cursor: pointer;
+}
+.amount-total {
+  font-size: 28px;
+  font-weight: bold;
+  color: black;
+}
+.order-p {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0px;
+}
+.item-count-para {
+  margin: 0px;
+}
